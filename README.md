@@ -5,5 +5,6 @@ Abaixo estão print do processo do exercício:
 <img width="333" height="196" alt="Captura de tela 2025-11-30 191327" src="https://github.com/user-attachments/assets/210390ca-d543-4c6e-8522-8b2e750bb69f" />
 
 Wordlist:
+
 <img width="208" height="176" alt="Captura de tela 2025-11-30 191744" src="https://github.com/user-attachments/assets/1424090e-620f-4ffa-8f4a-7b97e2a1bb64" />
 <img width="201" height="155" alt="Captura de tela 2025-11-30 191825" src="https://github.com/user-attachments/assets/26833061-a362-42ad-959c-6a39df0abcae" />
